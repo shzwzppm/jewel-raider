@@ -1,0 +1,31 @@
+{
+    "name": "Jewel Raider",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "animation": "*",
+        "color-coded-tilemap": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v0.10.1",
+        "tag": "v0.10.1",
+        "commits": "https://github.com/Microsoft/pxt-arcade/commits/6c472b0c45369ab77bf24a1d101707ebc752ad4a",
+        "target": "2.0.56",
+        "pxt": "5.9.15",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
